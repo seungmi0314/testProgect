@@ -26,6 +26,8 @@ public static void main(String[] args) {
 	
 	//자바는 사칙연산의 우선순위를 그대로 따른다.
 	//ex> 우선계산을 원하면 ()괄호 사용
+	System.out.println("안녕? 날 보고있니?");
+
 	
 	}
 }
